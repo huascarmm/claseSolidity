@@ -1,4 +1,11 @@
 Primera egit contrada de huascar
 
 josue: entrada josue
-jac: entrada jose cordova
+
+
+Imara: entrada Imara
+lizeth: hello world
+
+Kiben entrada  de Kiben
+
+jose : mi entrada
